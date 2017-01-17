@@ -29,4 +29,14 @@ dependencies {
     // 'test.useTestNG()' to your build script.
     testCompile 'junit:junit:4.12'
 }
-./gradle test
+task compile {
+    doLast {
+        println 'compiling source'
+    }
+}
+
+task compileTest(dependsOn: compile) {
+    doLast {
+        println 'compiling unit tests'
+    }
+}
