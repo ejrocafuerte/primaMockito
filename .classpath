@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="C:/Users/CltControl/Downloads/org.mockito_1.9.5.v201311280930.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrador/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.0.57-beta/7f148a70f7e0a53540842699fb6024c288f95aac/mockito-core-2.0.57-beta.jar" sourcepath="C:/Users/Administrador/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.0.57-beta/fbf0ab8625245133cccc5c90c616cd453c11c794/mockito-core-2.0.57-beta-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
